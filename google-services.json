@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497788281637",
+    "firebase_url": "https://fetarkapp-60f67.firebaseio.com",
+    "project_id": "fetarkapp-60f67",
+    "storage_bucket": "fetarkapp-60f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497788281637:android:7ef0ec4f6ec2b99a",
+        "android_client_info": {
+          "package_name": "com.ionic.fetarkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497788281637-dfdev83p4e50gsg3tbjul1p94be4v7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxD8A1ebQd7ASKPkTbH5EEi-nACIP9Qhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

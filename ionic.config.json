@@ -1,5 +1,7 @@
 {
   "name": "fetar-app-ionic-4",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
